@@ -26,7 +26,7 @@
 
 ## 6. What is your coding experience? List the programming languages that you have used in the past.
 
-== Intermediate R, beginner in Python and SQL ==
+== [Confidential] ==
 
 ## 7. What are your expectations of this course?
 
