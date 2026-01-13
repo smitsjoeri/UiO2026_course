@@ -6,36 +6,35 @@
 
 ## 1. What is your name and preferred name if any?
 
-== Joeri Smits ==
+== Aime Rabenorolahy
 
 ## 2. What is your current title and affiliation/position? What year of the program are you in? Also add a link to your webpage if you have one.
 
-== Research affiliate, Tufts University ==
+Master in economics at UIO
 
 ## 3. What is your primary field of research interests?
 
-== applied micro, development ==
+== Macroeconomic
 
 ## 4. What interests you in structural estimation?
 
-== Deeper understanding of an economic problem at hand and policy counterfactuals ==
+== Econometrics in general
 
 ## 5. What is your previous econometrics training? Briefly list the models and methods you have studied, ideally indicating which ones you have had practical experience with, and using which software packages.
 
-== Mostly applied cross-section and panel data econometrics using Stata and R. Treatment effects, nonparametrics, etc. Time series only learned some in college and partly forgotten. ==
-== Mostly applied cross-section and panel data econometrics using Stata and R ==
+Two Econometric courses at master level at UIO. Only software used is MatlaB 
 
 ## 6. What is your coding experience? List the programming languages that you have used in the past.
 
-== [Confidential] ==
+== No experience in coding
 
 ## 7. What are your expectations of this course?
 
-== To get started with structural modeling ==
+More knowledge in econometrics
 
 ## 8. Will you be taking exam to receive credit for this course?
 
-== No ==
+== I do  Intend to take exam
 
 > Thank you for filling out the student survey!
 

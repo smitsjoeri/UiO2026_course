@@ -6,36 +6,37 @@
 
 ## 1. What is your name and preferred name if any?
 
-== Joeri Smits ==
+Amalie Halle Christensen
 
 ## 2. What is your current title and affiliation/position? What year of the program are you in? Also add a link to your webpage if you have one.
 
-== Research affiliate, Tufts University ==
+PhD. 2nd year. University of Oslo. https://www.sv.uio.no/econ/personer/vit/amaliehc/
 
 ## 3. What is your primary field of research interests?
 
-== applied micro, development ==
+International trade. The effect of negative labor supply shock on Norwegian firms.
 
 ## 4. What interests you in structural estimation?
 
-== Deeper understanding of an economic problem at hand and policy counterfactuals ==
+Understand what it is and how it is relevant to my research. 
 
 ## 5. What is your previous econometrics training? Briefly list the models and methods you have studied, ideally indicating which ones you have had practical experience with, and using which software packages.
 
-== Mostly applied cross-section and panel data econometrics using Stata and R. Treatment effects, nonparametrics, etc. Time series only learned some in college and partly forgotten. ==
-== Mostly applied cross-section and panel data econometrics using Stata and R ==
+From courses: ML, GMM, non-parametric methods, inference, unconfoundedness, partial identification, IV, selection, MTE, DiD, other panel data mathods.
+
+Practical experience: Mostly practical experience with DiD and event studies. Some experience with the topics from 4. since we did some R courses in the classes.
 
 ## 6. What is your coding experience? List the programming languages that you have used in the past.
 
-== [Confidential] ==
+1 year R programmer full-time before starting PhD. Some experience with SAS and Python. A little matlab experience but not much.
 
 ## 7. What are your expectations of this course?
 
-== To get started with structural modeling ==
+To learn some practical econometrics skills.
 
 ## 8. Will you be taking exam to receive credit for this course?
 
-== No ==
+I think so.
 
 > Thank you for filling out the student survey!
 
